@@ -1,16 +1,22 @@
-## Hi there 👋
+ # Hi, I'm Vishal Saini 👋
 
-<!--
-**vishal-dev123/vishal-dev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at NIT Jalandhar
 
-Here are some ideas to get you started:
+🏆 98.7 Percentile in JEE Main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 93% in Class 12
+
+📚 87% in Class 10
+
+💻 Solved 300+ DSA Problems on LeetCode & GFG
+
+🚀 AI Resume Analyzer Developer
+
+🌐 Portfolio Website:
+https://vishal-dev123.github.io/my-portfolio/
+
+📧 Email:
+sainisaab123451@gmail.com
+
+🔗 GitHub:
+https://github.com/vishal-dev123
