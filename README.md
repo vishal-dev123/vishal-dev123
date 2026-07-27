@@ -58,72 +58,43 @@ Become a Software Development Engineer (SDE) at a top product-based company and 
 
 ---
 
-# 📌 Featured Projects
-
-## 💼 Job Portal
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
-✔ JWT Authentication
-
-✔ Recruiter Dashboard
-
-✔ Student Dashboard
-
-✔ Resume Upload
-
-✔ Job Search & Apply
-
-🔗 Repository:
-https://github.com/vishal-dev123/YOUR_JOB_PORTAL_REPO
-
----
-
-## 🤖 AI Resume Analyzer
-
-**Tech Stack:** Python • Streamlit • Machine Learning
-
-✔ ATS Resume Score
-
-✔ Resume Parsing
-
-✔ Resume Suggestions
-
-✔ Skill Analysis
-
-🔗 Repository:
-https://github.com/vishal-dev123/YOUR_RESUME_REPO
-
----
+ # 🚀 Featured Projects
 
 ## 🚗 Car Price Prediction
 
-**Tech Stack:** Python • Scikit-Learn • Streamlit
+**Machine Learning | Streamlit | Scikit-Learn | Pandas**
 
-✔ ML Model
+A machine learning web application that predicts the price of used cars based on user inputs. The application features a clean Streamlit interface and delivers real-time price predictions.
 
-✔ Data Visualization
+### ✨ Features
+- 🤖 Machine Learning Model
+- 📊 Real-Time Price Prediction
+- 📈 Data Visualization
+- 🎨 Interactive Streamlit UI
+- ⚡ Fast & Accurate Predictions
 
-✔ Price Prediction
-
-🔗 Repository:
-https://github.com/vishal-dev123/YOUR_CAR_PRICE_REPO
+🔗 **Live Demo:**  
+https://car-price-prediction-gzg8hcnzbjxgbv5bwjb4fz.streamlit.app/
 
 ---
 
-## 🛒 E-Commerce Website
+## 🛒 WoodKart Furniture Store
 
-**Tech Stack:** HTML • CSS • JavaScript
+**HTML | CSS | JavaScript**
 
-✔ Responsive Design
+A responsive furniture e-commerce website with a modern interface, product catalog, shopping cart, and smooth browsing experience.
 
-✔ Shopping Cart
+### ✨ Features
+- 🛋️ Modern Furniture Store UI
+- 📱 Fully Responsive Design
+- 🛒 Shopping Cart
+- 🔍 Product Categories
+- ⚡ Fast Loading Website
 
-✔ Modern UI
+🔗 **Live Demo:**  
+https://vishal-dev123.github.io/woodkart-furniture/
 
-🔗 Repository:
-https://github.com/vishal-dev123/YOUR_ECOMMERCE_REPO
-
+---
 ---
 
 # 📊 GitHub Statistics
@@ -163,14 +134,7 @@ https://github.com/vishal-dev123/YOUR_ECOMMERCE_REPO
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishal-dev123&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
+ 
 
 ---
 
