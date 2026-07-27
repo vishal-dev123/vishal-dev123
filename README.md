@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20There,%20I'm%20Vishal%20Saini&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
+<img src="https://github.com/vishal-dev123.png" width="140" style="border-radius:50%;" alt="Vishal Saini" />
+
 ### 🚀 Full Stack MERN Developer &nbsp;|&nbsp; 🤖 Machine Learning Enthusiast &nbsp;|&nbsp; 🧩 Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+MERN+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+New+Technologies" />
@@ -17,6 +19,8 @@
 <br>
 
 ## 💫 About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-45d5-a1e2-1eb0f4a2dd52.gif" alt="coding gif" />
 
 ```yaml
 🎓 Education:    B.Tech in Information Technology
@@ -43,6 +47,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## 🚀 Tech Stack
 
