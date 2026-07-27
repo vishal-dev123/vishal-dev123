@@ -124,7 +124,7 @@ https://vishal-dev123.github.io/woodkart-furniture/
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/A855F7/vishal-dev123"/>
+ <img src="https://ghchart.rshah.org/39D353/vishal-dev123" />
 
 </p>
 
