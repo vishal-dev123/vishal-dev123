@@ -111,10 +111,13 @@ https://vishal-dev123.github.io/woodkart-furniture/
 
 # 💻 Most Used Languages
 
+ # 💻 Most Used Languages
+
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-dev123&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-dev123&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
